@@ -48,6 +48,10 @@ Hyperparameters can be adjusted in `main.py`, defined as hspace. The default set
 ## Keyphrase Extraction
 An auxiliary tool, Keyphrase Extraction, leverages HuggingFace to annotate documents with keyphrases. Although not part of the main pipeline, it aids in initial dataset labeling. The implementation is available in `keyphrase_extraction.py`.
 
+## Dataset
+The initial dataset that the classifier has been trained on can be found as two separate `train_data.csv` and `test_data.csv`.
+`DA_snopes.csv` is the data augmentation we did to test the pipeline on it.
+
 ## Version History
 - 0.1: Initial Release
 
