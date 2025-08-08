@@ -57,7 +57,7 @@ The initial dataset that the classifier has been trained on can be found as two 
 
 ## Contact
 - **Mohsen Ghasemizade**
-- Email: mghasemizade97@gmail.com
+- Email: mghasemi@uvm.edu
 
 ## Citation
 If you utilize this pipeline, please cite our work as follows:
